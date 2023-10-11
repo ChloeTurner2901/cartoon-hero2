@@ -1,0 +1,92 @@
+body{
+	margin: 0;
+	font-size: 15px;
+	font-family: poppins regular;
+	color: #333333;
+	line-height: 27px;
+}
+
+header{
+	color: #361069;
+	background-color: #5ddcb921;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+
+h1{
+	font-family: 'Cabin Sketch', sans-serif;
+	font-size: 60px;
+	color: #361069;
+	text-align: center;
+}
+h2{
+	font-size: 35px;
+	font-family: 'Cabin Sketch', sans-serif;
+	color: #333333; 
+	text-align: center;
+	margin: 20px 0 25px ;
+}
+
+a{
+	color: #361069;
+
+}
+a:hover{
+	color:#5ddcb9 ;
+}
+
+
+footer{
+	text-align: center;
+	background-color: #8878c433;
+		padding-top: 30px;
+	padding-bottom: 30px;
+
+}
+
+footer a{
+	color: #361069;
+}
+footer a:hover{
+	color:#5ddcb9 ;
+}
+.columns {
+  display: flex;
+}
+
+.column-2 {
+  width: 50%;
+}
+
+.column-4 {
+  width: 25%;
+}
+p.Jobs{
+	text-align: center;
+}
+
+.about{
+	background-color: #efefef;
+	text-align: center;
+}
+
+.personality{
+	background-color: #8878c433;
+}
+.jobs{
+	background-color:#ffffff ;
+}
+
+.capabilities{
+	background-color:#5ddcb921 ;
+}
+.zones{
+	background-color: #efefef;
+}
+.container{
+	max-width: 800px;
+	padding: 20px;
+	margin: 0 auto;
+}
