@@ -20,6 +20,7 @@ h1{
 	font-size: 60px;
 	color: #361069;
 	text-align: center;
+	line-height: 40px;
 }
 h2{
 	font-size: 35px;
@@ -27,6 +28,7 @@ h2{
 	color: #333333; 
 	text-align: center;
 	margin: 20px 0 25px ;
+	line-height: 40px;
 }
 
 a{
@@ -61,7 +63,8 @@ footer a:hover{
 }
 
 .column-4 {
-  width: 25%;
+  width: 33%;
+  text-align: center;
 }
 p.Jobs{
 	text-align: center;
@@ -84,9 +87,37 @@ p.Jobs{
 }
 .zones{
 	background-color: #efefef;
+	text-align: center;
 }
 .container{
 	max-width: 800px;
 	padding: 20px;
 	margin: 0 auto;
 }
+
+.appearacne{
+	background-color: #ffffff;
+	text-align: center;
+}
+
+ #navbar ul { 
+	margin: 0; 
+	padding: 5px; 
+	list-style-type: none; 
+	text-align: center; 
+	background-color: #5ddcb921; 
+	} 
+ 
+#navbar ul li {  
+	display: inline; 
+	} 
+ 
+#navbar ul li a { 
+	text-decoration: none; 
+	padding: .2em 1em; 
+	color: #333333; ; 
+	} 
+ 
+#navbar ul li a:hover { 
+	color: #5ddcb9; 
+	} 
